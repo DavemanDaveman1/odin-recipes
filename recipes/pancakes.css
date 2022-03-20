@@ -4,8 +4,8 @@ H1 {background-color: khaki;
     text-align: center;
     font-family:'Courier New', Courier, monospace;}
     
-    .toxic {background-color:mediumseagreen;
-    color:crimson;
+    H2, H3 {background-color:khaki;
+    color:rgb(0, 140, 255);
     font-size: 50px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
     
